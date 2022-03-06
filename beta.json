@@ -2,11 +2,11 @@
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://doc-0s-4k-docs.googleusercontent.com/docs/securesc/5a20b2lp3qp6o0jk1g8mfkl9cp9nug1d/0r5rcivc0bfsur0ths29anpgd58vie9b/1646551575000/03919444778954185449/04352717340915556117Z/10GiAGGqcUmOyWITCDVT6o_28_EaSJQpa?e=download",
+    "link": "https://github.com/Errorguy1991/magisk_files/raw/main/app-release.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://doc-10-4k-docs.googleusercontent.com/docs/securesc/5a20b2lp3qp6o0jk1g8mfkl9cp9nug1d/q3hotts039fevqnq684npiuut71a4ef5/1646551650000/03919444778954185449/04352717340915556117Z/10GkgPRA7NalsoIX0UGWhyCfpDCWYRj0D?e=download"
+    "link": "https://github.com/Errorguy1991/magisk_files/raw/main/stub-release.apk"
   }
 }
