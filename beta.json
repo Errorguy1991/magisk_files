@@ -3,7 +3,7 @@
     "version": "23.0",
     "versionCode": "23000",
     "link": "https://github.com/Errorguy1991/magisk_files/raw/main/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "note": "https://github.com/Errorguy1991/magisk_files/main/README.md"
   },
   "stub": {
     "versionCode": "21",
